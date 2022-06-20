@@ -1,0 +1,8 @@
+<?php
+return [
+	'paytm'=>[
+		'PAYTM_MERCHANT_KEY'=>'Yt@5VHUmPcTp2gMD',
+		'PAYTM_MERCHANT_MID'=>'inTgsm12500192707259',
+		'PAYTM_ENVIRONMENT'=>'PROD',// PROD //TEST
+	]
+];

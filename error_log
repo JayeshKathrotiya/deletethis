@@ -1,0 +1,328 @@
+[22-Jan-2020 04:12:35 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:13:21 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:13:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:13:22 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:13:24 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:13:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:13:38 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:13:42 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:13:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:14:45 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:14:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:01 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:02 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:15:41 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:15:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:22:44 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:23:45 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:24:23 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:08 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:09 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:09 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:10 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:10 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:10 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:10 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/oktatwq3/public_html/vendor/laravel/framework/src/Illuminate/Support/Enumerable.php on line 11
+[22-Jan-2020 04:25:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\json_encode() in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:162
+Stack trace:
+#0 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php(933): Symfony\Component\VarDumper\Dumper\HtmlDumper->getDumpHeader()
+#1 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(562): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#2 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/CliDumper.php(263): Symfony\Component\VarDumper\Dumper\CliDumper->endValue(Object(Symfony\Component\VarDumper\Cloner\Cursor))
+#3 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(369): Symfony\Component\VarDumper\Dumper\CliDumper->dumpString(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'Use of undefine...', false, 0)
+#4 /home/oktatwq3/public_html/vendor/symfony/var-dumper/Cloner/Data.php(269): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object( in /home/oktatwq3/public_html/vendor/symfony/var-dumper/Dumper/HtmlDumper.php on line 162
